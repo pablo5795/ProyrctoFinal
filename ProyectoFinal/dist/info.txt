@@ -1,0 +1,20 @@
+  ----------------------------------------------------------------
+        INFORMACIÓN SOBRE LA APLICACIÓN
+  ----------------------------------------------------------------
+  AUTOR: PABLO JIMÉNEZ PÉREZ
+  CURSO: 2º DAM
+  VERSIÓN: 1.2
+  TITULO: PROYECTO FINAL GIMNASIO
+  ----------------------------------------------------------------
+                   MANUAL BÁSICO DE USO
+  ----------------------------------------------------------------
+  1. PESTAÑA "AÑADIR": RELLENANDO LOS CAMPOS CORRESPONDIENTES
+  Y DANDO AL BOTÓN ACEPTAR SE AÑADE UN CLIENTE A LA BD.
+  PULSANDO EN CERRAR SE CIERRA LA APLICACIÓN ENTERA.
+
+  2. PESTAÑA "BORRAR": INSERTANDO EL DNI DE UN CLIENTE, SE LE
+  BUSCA EN LA BASE DE DATOS Y SE ELIMINA SU REGISTRO PULSANDO
+  EN ACEPTAR.
+
+  3. PESTAÑA "CLIENTES": SE MUESTRA EL LISTADO COMPLETO DE LOS
+  CLIENTES DEL GIMNASIO.
